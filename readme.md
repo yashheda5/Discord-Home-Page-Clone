@@ -1,4 +1,4 @@
-**Step 1:** [Download](x-github-client://openRepo/https://github.com/yashheda5/Discord-Home-Page-Clone) this repo as a zip
+**Step 1:** [Download](https://github.com/yashheda5/Discord-Home-Page-Clone/archive/refs/heads/main.zip) this repo as a zip
 
 **Step 2:** To run:
 
